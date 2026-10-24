@@ -8,3 +8,6 @@ En este repositorio están los entregables relacionados con los ejercicios de se
 En esta actividad se trabajo con Apache Netbeans, en el documento PDF encontrara la portada, código fuente de cada ejercicio, el diagrama de clases y de objetos para cada ejercicio y los casos de uso, en adición la URL de este repositorio
 
 PDF
+[Programación Orientada a Objetos seguimiento 3 JMMA 1017243551cc.pdf](https://github.com/user-attachments/files/33913984/Programacion.Orientada.a.Objetos.seguimiento.3.JMMA.1017243551cc.pdf)
+
+Una disculpa lo demorado en la entrega, yo normalmente por el trabajo entrego el último día, sin embargo, para esta entrega me toco seguir paso a paso los videos de la semana 8 y 9, para mi sorpresa el ejercicio 8.3 no alcanzamos a hacerlo en dichas clases y fue algo completamente retador lo logre sacar adelante pero fue algo de las madrugadas del día viernes 23 y sábado 24, por ello adjunto cada detalle del trabajo realizado aunque sea posterior a la fecha de entrega de jueves 22 de octubre.
